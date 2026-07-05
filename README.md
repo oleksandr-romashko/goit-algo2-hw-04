@@ -214,22 +214,6 @@ git clone https://github.com/oleksandr-romashko/goit-algo2-hw-04.git
 cd goit-algo2-hw-04
 ```
 
-Create and activate a virtual environment, then install dependencies:
-
-**For Linux and macOS:**
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-**For Windows:**
-```bash
-python -m venv .venv
-.venv\Scripts\activate
-pip install -r requirements.txt
-```
-
 ### Run the code
 
 #### Run code locally
